@@ -1,3 +1,2 @@
 # AP-Statistics-Final-Project
-Simple tool to help apply statistical methods from course to large sets of county data from 2020 election in order to see whether election fraud was truly present. Creates a sampling distribution of ballots-per-county averages from 100 different combinations of 477 counties. 
-
+Very simple tool to create sampling distribution of ballots-per-county averages of 100 possible combinations of 477 counties. For use in project to statistically dismantle electron fraud claims for 2020 election.
